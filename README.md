@@ -24,9 +24,8 @@ Execute os comandos abaixo para instalar das dependências do projeto:
 
 Instalando o Cypress, Plugins Allure Report e outras dependências...
 ```sh
-cd cypress-express-mark\apps\web
+cd cypress-express-mark\
 yarn install
-yarn dev
 ```
 
 Subindo a api...
@@ -43,6 +42,13 @@ cd cypress-express-mark\apps\web
 yarn install
 yarn dev
 ```
+
+Executando os testes...
+```sh
+cd cypress-express-mark\
+yarn cypress run
+```
+
 
 ## 📝 License
 
