@@ -56,4 +56,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feito por Jefferson Melo 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/jeffersonmelo8/)
+Feito por Jefferson Melo 👋 &nbsp;[Meu linkedIn](https://www.linkedin.com/in/jeffersonmelo8/)
