@@ -12,7 +12,9 @@
 
 ## 👨🏻‍💻 Como executar o projeto
 
-[Node.js](https://nodejs.org/) v18 ou superior para executar.
+[Node.js](https://nodejs.org/) - v18 ou superior para executar
+
+[Java 8](https:https://www.java.com/pt-BR/download/help/java8_pt-br.html) - como dependência de execução do Allure Report
 
 Para liberar o gerenciador de pacotes Yarn:
 
