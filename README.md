@@ -49,6 +49,17 @@ cd cypress-express-mark\
 yarn cypress run
 ```
 
+Executando os testes gerando dados pro Allure Report...
+```sh
+cd cypress-express-mark\
+yarn cypress run --env allure=true
+```
+
+Para abrir o relatório em um servidor local
+```sh
+yarn allure serve
+```
+
 
 ## 📝 License
 
